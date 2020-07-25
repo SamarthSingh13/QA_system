@@ -1,1 +1,2 @@
 # QA_system
+NLP based question answering system. Given a corpus of documents and a query, returns the sentence best fitted for the answer to the given query.Document retrieval using ranking based on Term Frequency and Inverse Document Frequency and Cosine Similarity, based on  Vector Space Model. Sentence retrieval using ranking based on Inverse Document Frequency, Query Term Density and Dependency Parse Tree. Synonym handling also incorporated.
